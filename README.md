@@ -9,7 +9,7 @@ Git cheatsheet:
 3. Add file to staging area
    - git add file.XY
 
-4. Commit file to locally
+4. Commit file locally
    - git commit -m "Here should be message"
 
 5. Push work to GitHub
