@@ -1,5 +1,3 @@
-This is Adam’s first git project!
-
 Git cheatsheet:
 1. Create GitHub repository
 2. Clone repository to folder you wish to work in
